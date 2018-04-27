@@ -10,6 +10,11 @@
   color: white;
 }
 
+.banner h2 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
 a {
   color: white;
   font-weight: bold;
@@ -21,7 +26,8 @@ h1 {
 }
 
 h2 {
-  font-size: 32px
+  font-size: 32px;
+  font-weight: bold;
 }
 
 h3 {
@@ -35,9 +41,6 @@ h3 {
   font-size: 11px;
 }
 
-id {
-  text-align: left;!
-}
 
 .banner,
 .secondary,
