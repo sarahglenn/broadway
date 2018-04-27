@@ -15,7 +15,7 @@
   font-weight: bold;
 }
 
-a {
+.banner a {
   color: white;
   font-weight: bold;
   font-size: 18px;
@@ -41,6 +41,11 @@ h3 {
   font-size: 11px;
 }
 
+.footer a {
+  font size: 12px;
+  font-weight: bold;
+  color: white;
+}
 
 .banner,
 .secondary,
